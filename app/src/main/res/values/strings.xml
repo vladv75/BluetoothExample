@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothExample</string>
+    <string name="title_make_discoverable">Включить доступ</string>
+    <string name="title_discover_devices">Найти устройства</string>
+    <string name="title_tap_to_connect">Устройства найдены, выберите для соединения:</string>
+    <string name="prompt_enter_message">Введите сообщение...</string>
+    <string name="title_send_message">Отправить сообщение</string>
+    <string name="title_message_for_device">Сообщение для отправки</string>
+    <string name="title_message_received">Принятое сообщение</string>
+</resources>
